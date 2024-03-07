@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+netCDF4==1.6.5
+xarray==2024.2.0
+Cartopy==0.22.0
+pyclimdex @ git+https://github.com/behnaz-1995/pyclimdex@master
