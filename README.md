@@ -5,3 +5,5 @@ python -m venv .venv
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
+# Info 
+change the name of the data to (data.nc)
