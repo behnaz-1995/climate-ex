@@ -6,4 +6,9 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 # Info 
-change the name of the data to (data.nc)
+1. change the name of the data to (data.nc)
+2. Computing the following indices for temperature and precipitation :
+*  Monthly max daily max temp (TXx)
+*  Monthly min daily max temp (TXn)
+*  Monthly 1-day precip (Rx1day)
+*  Consecutive dry days (CDD)
