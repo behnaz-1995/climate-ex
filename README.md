@@ -10,9 +10,9 @@ pip install -r requirements.txt
 2. Computing the following indices for temperature and precipitation :
    
 Temperature
-*  Monthly max daily max temp (TXx)
-*  Monthly min daily max temp (TXn)
+*  Monthly Maximum Value of Daily Maximum Temperature (TXx)
+*  Monthly MinimumValue of Daily Minimum Temperature (TNn)
   
 Precipitation
-*  Monthly 1-day precip (Rx1day)
-*  Consecutive dry days (CDD)
+*  Monthly 1-day Precipitation  (Rx1day)
+*  Consecutive D0ry Days (CDD)
