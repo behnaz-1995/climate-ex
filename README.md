@@ -11,8 +11,8 @@ pip install -r requirements.txt
    
 Temperature
 *  Monthly Maximum Value of Daily Maximum Temperature (TXx)
-*  Monthly MinimumValue of Daily Minimum Temperature (TNn)
+*  Monthly Minimum Value of Daily Minimum Temperature (TNn)
   
 Precipitation
 *  Monthly 1-day Precipitation  (Rx1day)
-*  Consecutive D0ry Days (CDD)
+*  Consecutive Dry Days (CDD)
